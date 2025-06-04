@@ -276,17 +276,10 @@ Example test sequence:
 6. Check statistics: GET /api/products/stats.
 7. Test error cases (invalid ID, missing API key, invalid data).
 
-## Submission
-
-I submitted the project via GitHub Classroom, including:
-- All source files in `src/`.
-- `README.md` with setup instructions and API documentation.
-- `.env.example` for environment variables.
-- `.gitignore` to exclude `.env` and `node_modules`.
 
 ## Conclusion
 
-This project successfully meets all requirements of the Week 2 Express.js assignment, implementing a robust RESTful API with middleware, error handling, and advanced features. Overcoming challenges like module errors and API key issues enhanced my understanding of Express.js, middleware design, and API testing. The API is ready for use and further extension, such as integrating a database for persistent storage.
+This project implements a RESTful API with middleware, error handling, and advanced features. Overcoming challenges like module errors and API key issues enhanced my understanding of Express.js, middleware design, and API testing. The API is ready for use and further extension, such as integrating a database for persistent storage.
 
 ---
 
@@ -300,5 +293,3 @@ This project successfully meets all requirements of the Week 2 Express.js assign
   git commit -m "Add professional README.md"
   git push origin main
   ```
-
-If you need adjustments (e.g., specific endpoint examples, additional sections), let me know! This `README.md` should satisfy the assignment’s submission requirements and provide clear documentation for your instructor or peers.
